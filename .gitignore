@@ -1,0 +1,25 @@
+# Unreal Engine generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.tmp
+*.user
+
+# Local IDE files
+.idea/
+.vscode/
+.ubtlocal/
+UBT.log
+
+# Packaged builds
+StagedBuilds/
+Packaged/

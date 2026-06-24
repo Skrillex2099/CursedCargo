@@ -1,0 +1,14 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Games",
+  "Description": "Cooperative cargo extraction game.",
+  "Modules": [
+    {
+      "Name": "CursedCargo",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
+
