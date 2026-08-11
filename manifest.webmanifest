@@ -1,0 +1,12 @@
+{
+  "id":"./dropradar.html",
+  "name":"DropRadar — Gaming Drops",
+  "short_name":"DropRadar",
+  "description":"Free games, loot, DLC, Epic giveaways and personal drop alerts.",
+  "start_url":"./dropradar.html",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#090b0c",
+  "theme_color":"#090b0c",
+  "icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
